@@ -1,5 +1,13 @@
 # @graphql-codegen/typescript-vue-apollo
 
+## 2.2.0
+
+### Minor Changes
+
+- 36294d92: \* Support the `useTypeImports` options
+  - Fix typing errors for operations without variables
+  - Improve jsdoc
+
 ## 2.1.1
 
 ### Patch Changes
